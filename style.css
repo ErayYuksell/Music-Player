@@ -9,7 +9,7 @@
 #progress{
     margin-bottom: 20px;
 }
-.times{
+.times,#controls{
     display: flex;
     justify-content: space-between;
     align-items: center;
